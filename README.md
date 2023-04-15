@@ -1,2 +1,2 @@
-# Web-dev
-Basic calculator: https://gabrielcd08.github.io/Web-dev/
+# Basic-calculator
+Basic calculator: https://gabrielcd08.github.io/Basic-calculator/
